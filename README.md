@@ -8,10 +8,12 @@ Essa conta no GitHub foi criada com o propósito de auxiliar meu aprendizado em 
 ##
 
 <div align="center">
+  
   <a href="https://github.com/Maelton-SI"> 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maelton-SI&theme=algolia&show_icons=true" href="https://github.com/Maelton-SI"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&theme=algolia" href="https://github.com/Maelton-SI"/>
-    </a>
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Maelton-SI&layout=compact&theme=algolia&show_icons=true&count_private=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maelton-SI&layout=compact&theme=algolia"/>
+  </a>
+  
 </div>
 
 ##
